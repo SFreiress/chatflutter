@@ -1,6 +1,6 @@
 {
-    "name": "chatflutter",
-    "short_name": "chatflutter",
+    "name": "app_chat",
+    "short_name": "app_chat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

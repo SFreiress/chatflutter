@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "chatflutter" "\0"
+            VALUE "CompanyName", "com.iqfareez" "\0"
+            VALUE "FileDescription", "app_chat" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "chatflutter" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "chatflutter.exe" "\0"
-            VALUE "ProductName", "chatflutter" "\0"
+            VALUE "InternalName", "app_chat" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.iqfareez. All rights reserved." "\0"
+            VALUE "OriginalFilename", "app_chat.exe" "\0"
+            VALUE "ProductName", "app_chat" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
